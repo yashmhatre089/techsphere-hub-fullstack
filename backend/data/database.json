@@ -1,0 +1,243 @@
+[
+  {
+    "id": "1",
+    "name": "Quantum X1 Pro",
+    "category": "Phones",
+    "price": 84999,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80",
+    "desc": "Next-gen flagship with 200MP telemetry camera array."
+  },
+  {
+    "id": "2",
+    "name": "AeroBlade Studio 16",
+    "category": "Laptops",
+    "price": 145000,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&q=80",
+    "desc": "Ultra-thin developer core processing workstation."
+  },
+  {
+    "id": "3",
+    "name": "SonicPulse ANC Ears",
+    "category": "Audio",
+    "price": 24999,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+    "desc": "Hybrid noise isolating high-fidelity wireless headset."
+  },
+  {
+    "id": "4",
+    "name": "CineMaster 4K Cam",
+    "category": "Cameras",
+    "price": 189999,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80",
+    "desc": "Cinema-grade mirrorless digital optics system."
+  },
+  {
+    "id": "5",
+    "name": "Chronos Apex Watch",
+    "category": "Wearables",
+    "price": 18499,
+    "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=500&q=80",
+    "desc": "Biometric dynamic health tracking telemetry matrix."
+  },
+  {
+    "id": "6",
+    "name": "Pro Stream Mic V2",
+    "category": "Audio",
+    "price": 12999,
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&q=80",
+    "desc": "Cardioid studio condenser vocal capture microphone."
+  },
+  {
+    "id": "7",
+    "name": "Orion Nebula Tablet",
+    "category": "Wearables",
+    "price": 54999,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&q=80",
+    "desc": "OLED multi-touch vector workstation drawing pad."
+  },
+  {
+    "id": "8",
+    "name": "Vortex Mechanical Grid",
+    "category": "Laptops",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&q=80",
+    "desc": "Linear hot-swappable tactile mechanical keyboard layout."
+  },
+  {
+    "id": "9",
+    "name": "Zeta Slate Pro",
+    "category": "Phones",
+    "price": 62999,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&q=80",
+    "desc": "Minimalist premium Android node with titanium framing."
+  },
+  {
+    "id": "10",
+    "name": "AeroBlade Air 13",
+    "category": "Laptops",
+    "price": 94999,
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80",
+    "desc": "Featherweight travel setup optimizing remote battery life."
+  },
+  {
+    "id": "11",
+    "name": "Hyperion VR Goggles",
+    "category": "Wearables",
+    "price": 42000,
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=500&q=80",
+    "desc": "Immersive mixed-reality stereoscopic environment visualizer."
+  },
+  {
+    "id": "12",
+    "name": "Titan Over-Ear Bass",
+    "category": "Audio",
+    "price": 15999,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&q=80",
+    "desc": "Heavy studio monitor monitoring headphones with spatial sub drivers."
+  },
+  {
+    "id": "13",
+    "name": "Alpha Prime Mirrorless",
+    "category": "Cameras",
+    "price": 135000,
+    "image": "https://images.unsplash.com/photo-1500641315427-30b347304405?w=500&q=80",
+    "desc": "Fast autofocus action sports photography capture station."
+  },
+  {
+    "id": "14",
+    "name": "Nexus Drop Buds",
+    "category": "Audio",
+    "price": 7999,
+    "image": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?w=500&q=80",
+    "desc": "Truly wireless multi-device pairing smart earbuds."
+  },
+  {
+    "id": "15",
+    "name": "Nova Edge Handset",
+    "category": "Phones",
+    "price": 45000,
+    "image": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?w=500&q=80",
+    "desc": "Borderless screen layout with sub-display biometric lock."
+  },
+  {
+    "id": "16",
+    "name": "Cyber Tank Rig 15",
+    "category": "Laptops",
+    "price": 179999,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&q=80",
+    "desc": "Desktop replacement gaming computing machine with liquid cooling."
+  },
+  {
+    "id": "17",
+    "name": "Horizon Action Cam",
+    "category": "Cameras",
+    "price": 34999,
+    "image": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=500&q=80",
+    "desc": "Waterproof wide-angle sports shockproof logging device."
+  },
+  {
+    "id": "18",
+    "name": "Pulse Band Lite",
+    "category": "Wearables",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&q=80",
+    "desc": "Slim profile activity step indicator with passive sensors."
+  },
+  {
+    "id": "19",
+    "name": "Quantum X1 Mini",
+    "category": "Phones",
+    "price": 54999,
+    "image": "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?w=500&q=80",
+    "desc": "Compact format architecture flagship operating setup."
+  },
+  {
+    "id": "20",
+    "name": "Zenith Studio Mount",
+    "category": "Cameras",
+    "price": 245000,
+    "image": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=500&q=80",
+    "desc": "Broadcasting standard high dynamic range mirrorless body."
+  },
+  {
+    "id": "21",
+    "name": "Acoustic Sphere Mini",
+    "category": "Audio",
+    "price": 5999,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80",
+    "desc": "360-degree room filling spatial smart home speaker."
+  },
+  {
+    "id": "22",
+    "name": "Viper Laser Tracker",
+    "category": "Laptops",
+    "price": 4500,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&q=80",
+    "desc": "8000 DPI ultra-low polling lag wireless navigation engine."
+  },
+  {
+    "id": "23",
+    "name": "Solaris Smart Glass",
+    "category": "Wearables",
+    "price": 28999,
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500&q=80",
+    "desc": "Heads-up informational display smart contextual notification glasses."
+  },
+  {
+    "id": "24",
+    "name": "Matrix Link Hub",
+    "category": "Laptops",
+    "price": 3200,
+    "image": "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?w=500&q=80",
+    "desc": "8-in-1 multi port data pipeline distribution unit."
+  },
+  {
+    "id": "25",
+    "name": "Pulse Chrono Steel",
+    "category": "Wearables",
+    "price": 21999,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+    "desc": "Stainless design luxury frame connected timekeeping asset."
+  },
+  {
+    "id": "26",
+    "name": "Acoustic Soundbar X",
+    "category": "Audio",
+    "price": 18999,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500&q=80",
+    "desc": "Under-monitor multi-channel atmospheric audio profile speaker."
+  },
+  {
+    "id": "27",
+    "name": "CineMaster Macro Lens",
+    "category": "Cameras",
+    "price": 67999,
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=500&q=80",
+    "desc": "Ultra close range technical optical glass attachment node."
+  },
+  {
+    "id": "28",
+    "name": "Prime Fold Device",
+    "category": "Phones",
+    "price": 124999,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80",
+    "desc": "Flexible internal hinge dynamic workspace dual visual matrix."
+  },
+  {
+    "id": "29",
+    "name": "AeroBlade Pro Max",
+    "category": "Laptops",
+    "price": 210000,
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&q=80",
+    "desc": "Maxed out processing setup for deep computational file tracking."
+  },
+  {
+    "id": "30",
+    "name": "Apex Pro Link Sound",
+    "category": "Audio",
+    "price": 32000,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+    "desc": "Reference monitoring mastering array sound system headphones."
+  }
+]
+  
